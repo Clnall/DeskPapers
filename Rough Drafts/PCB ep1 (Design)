@@ -1,0 +1,12 @@
+[]
+EEVblog #1176 - 2 Layer vs 4 Layer PCB EMC TESTED!
+https://www.youtube.com/watch?v=crs_QLuUTyQ
+(YouTube Video) Summary
+Having a 4 layer board with an inner ground and power plane is better than having a 2 layer board because the emc can be less by 10 - 15 dBuV in the near field. This is due to having shorter pathes creating less noise.
+
+
+https://www.youtube.com/watch?v=XkFncBaFlB8
+(YouTube Video) Summary
+
+https://www.youtube.com/watch?v=M6_an34wQJk
+(YouTube Video) Summary
