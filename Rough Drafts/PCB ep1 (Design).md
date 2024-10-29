@@ -26,6 +26,15 @@ Types of 2 Layer Boards (Cont.)
 * RF -> Single layer, ground on L2
 * All of these -> routed power, large pours for power, etc.
 <!-- </> Verbatim -->
+Good Design Practices for 2 Layer PCBs:
+1. Ground Pour for digital signals
+2. Have pours on both sides of the PCB for balancing to avoid warping
+3. Slow digital boards tend to use orthogonal traces: top layer(left to right), bottom layer(top to bottom)
+4. When your design becomes so dense with traces it does not seem worth to fill with ground pours, it is worth upgrading to 4 layer PCB
+5. https://youtu.be/XkFncBaFlB8?si=ie_8g20uoP0i5o8G&t=737
+
+Questions:
+What is cross talk?
 
 2-Layer PCB Design Tips - Phil's Lab #137
 https://www.youtube.com/watch?v=M6_an34wQJk
